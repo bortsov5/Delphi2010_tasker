@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.772,=C:\Users\borcov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=C:\Users\borcov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\borcov\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\исходники\task\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\borcov\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\исходники\task\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,=F:\исходники\task\uControlsLocalization.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Users\borcov\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\исходники\task\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,F:\исходники\task\Project1.dproj=F:\исходники\task\task.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
